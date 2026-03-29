@@ -129,8 +129,8 @@ These challenges required careful optimization and engineering trade-offs.
 
 **13. CONTRIBUTORS**
 
-* Rohit Arun
-* Nandhalal G Nair
+* Rohit Arun(VIT Vellore)
+* Nandhalal G Nair(VIT Vellore)
 
 ---
 
